@@ -1,0 +1,11 @@
+C:\Users\Pat\source\repos\String Input Form\String Input Form\bin\Debug\String Input Form.exe.config
+C:\Users\Pat\source\repos\String Input Form\String Input Form\bin\Debug\String Input Form.exe
+C:\Users\Pat\source\repos\String Input Form\String Input Form\bin\Debug\String Input Form.pdb
+C:\Users\Pat\source\repos\String Input Form\String Input Form\obj\Debug\String Input Form.csprojAssemblyReference.cache
+C:\Users\Pat\source\repos\String Input Form\String Input Form\obj\Debug\String_Input_Form.Form1.resources
+C:\Users\Pat\source\repos\String Input Form\String Input Form\obj\Debug\String_Input_Form.Form2.resources
+C:\Users\Pat\source\repos\String Input Form\String Input Form\obj\Debug\String_Input_Form.Properties.Resources.resources
+C:\Users\Pat\source\repos\String Input Form\String Input Form\obj\Debug\String Input Form.csproj.GenerateResource.cache
+C:\Users\Pat\source\repos\String Input Form\String Input Form\obj\Debug\String Input Form.csproj.CoreCompileInputs.cache
+C:\Users\Pat\source\repos\String Input Form\String Input Form\obj\Debug\String Input Form.exe
+C:\Users\Pat\source\repos\String Input Form\String Input Form\obj\Debug\String Input Form.pdb

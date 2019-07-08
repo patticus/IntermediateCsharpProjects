@@ -1,0 +1,7 @@
+C:\Users\Pat\source\repos\method libraries\method libraries\bin\Debug\method libraries.exe.config
+C:\Users\Pat\source\repos\method libraries\method libraries\bin\Debug\method libraries.exe
+C:\Users\Pat\source\repos\method libraries\method libraries\bin\Debug\method libraries.pdb
+C:\Users\Pat\source\repos\method libraries\method libraries\obj\Debug\method libraries.csprojAssemblyReference.cache
+C:\Users\Pat\source\repos\method libraries\method libraries\obj\Debug\method libraries.csproj.CoreCompileInputs.cache
+C:\Users\Pat\source\repos\method libraries\method libraries\obj\Debug\method libraries.exe
+C:\Users\Pat\source\repos\method libraries\method libraries\obj\Debug\method libraries.pdb

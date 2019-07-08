@@ -1,0 +1,7 @@
+C:\Users\Pat\source\repos\Streaming\Streaming\bin\Debug\Streaming.exe.config
+C:\Users\Pat\source\repos\Streaming\Streaming\bin\Debug\Streaming.exe
+C:\Users\Pat\source\repos\Streaming\Streaming\bin\Debug\Streaming.pdb
+C:\Users\Pat\source\repos\Streaming\Streaming\obj\Debug\Streaming.csprojAssemblyReference.cache
+C:\Users\Pat\source\repos\Streaming\Streaming\obj\Debug\Streaming.csproj.CoreCompileInputs.cache
+C:\Users\Pat\source\repos\Streaming\Streaming\obj\Debug\Streaming.exe
+C:\Users\Pat\source\repos\Streaming\Streaming\obj\Debug\Streaming.pdb

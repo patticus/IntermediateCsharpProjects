@@ -1,0 +1,10 @@
+C:\Users\Pat\source\repos\EnterYourName\EnterYourName\bin\Debug\EnterYourName.exe.config
+C:\Users\Pat\source\repos\EnterYourName\EnterYourName\bin\Debug\EnterYourName.exe
+C:\Users\Pat\source\repos\EnterYourName\EnterYourName\bin\Debug\EnterYourName.pdb
+C:\Users\Pat\source\repos\EnterYourName\EnterYourName\obj\Debug\EnterYourName.csprojAssemblyReference.cache
+C:\Users\Pat\source\repos\EnterYourName\EnterYourName\obj\Debug\EnterYourName.Form1.resources
+C:\Users\Pat\source\repos\EnterYourName\EnterYourName\obj\Debug\EnterYourName.Properties.Resources.resources
+C:\Users\Pat\source\repos\EnterYourName\EnterYourName\obj\Debug\EnterYourName.csproj.GenerateResource.cache
+C:\Users\Pat\source\repos\EnterYourName\EnterYourName\obj\Debug\EnterYourName.csproj.CoreCompileInputs.cache
+C:\Users\Pat\source\repos\EnterYourName\EnterYourName\obj\Debug\EnterYourName.exe
+C:\Users\Pat\source\repos\EnterYourName\EnterYourName\obj\Debug\EnterYourName.pdb

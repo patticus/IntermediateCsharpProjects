@@ -1,0 +1,7 @@
+C:\Users\Pat\source\repos\FtConversion\FtConversion\bin\Debug\FtConversion.exe.config
+C:\Users\Pat\source\repos\FtConversion\FtConversion\bin\Debug\FtConversion.exe
+C:\Users\Pat\source\repos\FtConversion\FtConversion\bin\Debug\FtConversion.pdb
+C:\Users\Pat\source\repos\FtConversion\FtConversion\obj\Debug\FtConversion.csprojAssemblyReference.cache
+C:\Users\Pat\source\repos\FtConversion\FtConversion\obj\Debug\FtConversion.csproj.CoreCompileInputs.cache
+C:\Users\Pat\source\repos\FtConversion\FtConversion\obj\Debug\FtConversion.exe
+C:\Users\Pat\source\repos\FtConversion\FtConversion\obj\Debug\FtConversion.pdb

@@ -1,0 +1,7 @@
+C:\Users\Pat\source\repos\SwitchTest\SwitchTest\bin\Debug\SwitchTest.exe.config
+C:\Users\Pat\source\repos\SwitchTest\SwitchTest\bin\Debug\SwitchTest.exe
+C:\Users\Pat\source\repos\SwitchTest\SwitchTest\bin\Debug\SwitchTest.pdb
+C:\Users\Pat\source\repos\SwitchTest\SwitchTest\obj\Debug\SwitchTest.csprojAssemblyReference.cache
+C:\Users\Pat\source\repos\SwitchTest\SwitchTest\obj\Debug\SwitchTest.csproj.CoreCompileInputs.cache
+C:\Users\Pat\source\repos\SwitchTest\SwitchTest\obj\Debug\SwitchTest.exe
+C:\Users\Pat\source\repos\SwitchTest\SwitchTest\obj\Debug\SwitchTest.pdb
